@@ -1,6 +1,12 @@
-### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
+### 
 
-#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+---
+### 👉作者QQ ：1556708905 微信：zheng0123Long (支持修改、部署调试、定制毕设)
+
+### 👉接网站建设、小程序、H5、APP、各种系统等
+
+### 👉选题+开题报告+任务书+程序定制+安装调试+ppt 都可以做
+---
 
 **毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
@@ -19,6 +25,7 @@
 - 前台
   
   公告，治愈文章、在线心理测评、留言板，个人中心
+
 - 后台管理
   
   公告管理，文章管理，用户管理，留言板管理，心理测试管理，咨询交流
@@ -93,13 +100,17 @@
 ## 六、安装教程
 
 1. 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并导入项目的sql文件；
+
 2. 使用IDEA/Eclipse导入gin目录项目，Eclipse/MyEclipse导入时，若为maven项目请选择maven;
    
    若为maven项目，导入成功后请执行maven clean;maven install命令，然后运行；
-3. 在 `gin/src/main/resources/application.properties`修改数据库连接参数
-4. 启动项目后端项目 
-5. vscode打开tequila项目，
-6. 打开终端，执行npm install 依赖下载完成后执行 npm run serve,执行成功后会显示访问地址
-7. 访问  http://localhost:8080/
 
- 
+3. 在 `gin/src/main/resources/application.properties`修改数据库连接参数
+
+4. 启动项目后端项目 
+
+5. vscode打开tequila项目，
+
+6. 打开终端，执行npm install 依赖下载完成后执行 npm run serve,执行成功后会显示访问地址
+
+7. 访问  http://localhost:8080/
